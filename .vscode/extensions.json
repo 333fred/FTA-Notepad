@@ -6,7 +6,8 @@
 	"recommendations": [
 		"vitest.explorer",
 		"esbenp.prettier-vscode",
-		"svelte.svelte-vscode"
+		"svelte.svelte-vscode",
+		"bradlc.vscode-tailwindcss"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
