@@ -3,8 +3,8 @@
 	import TeamStatus from '$lib/components/fieldMonitor/teamStatus.svelte';
 </script>
 
-<div class="h-screen grid grid-cols-2 md:grid-cols-1 grid-rows-[max-content_1fr] md:grid-rows-[max-content_1fr_1fr]">
-	<div class="col-span-2 md:col-span-1">
+<div class="h-screen grid grid-cols-1 lg:landscape:grid-cols-2 grid-rows-[max-content_1fr_1fr] lg:landscape:grid-rows-[max-content_1fr]">
+	<div class="col-span-1 lg:landscape:col-span-2">
 		<MatchStatus />
 	</div>
 
